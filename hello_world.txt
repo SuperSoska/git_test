@@ -2,3 +2,4 @@ A lot of placeholder text.
 jk not that much.
 still i need a few more lines.
 Yeah
+try to stage and commit another line here with different text editor
