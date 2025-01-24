@@ -1,0 +1,14 @@
+A lot of placeholder text.
+jk not that much.
+still i need a few more lines.
+Yeah
+try to stage and commit another line here with different text editor
+add a few more lines of text so i can remember how to commit them
+one more 
+and one last time
+the text is here but it didnt supposed to be here
+why so?
+i deleted it from my laptop, and deleted it from git 
+meybe something in vscode cache?
+who knows buit here we are
+bye
